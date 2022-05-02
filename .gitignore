@@ -1,6 +1,15 @@
 .DS_Store
-node_modules
-/dist
+# /dist
+/node_modules
+/public
+/src
+.browserslistrc
+.gitignore
+babel.config.js
+package.json
+vue.config.js
+# package-lock.json
+yarn.lock
 
 
 # local env files
