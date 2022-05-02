@@ -22,4 +22,3 @@
 * @babel/parser: 用于解析 javascript 代码，可将代码转化为 AST，[官网链接](https://babeljs.io/docs/en/babel-parser#babelparserparsecode-options)
 * d3: 用于实现数据可视化的js库，[官网链接](https://d3js.org/)
 * element-ui: 组件UI，用于参考和学习，[官网链接](https://element.eleme.cn/#/zh-CN)
-* textbus: 开源富文本框,一边学习一边应用,为以后自己实现的想要的富文本框做基础，[官网链接](https://textbus.tanboui.com/)
