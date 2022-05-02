@@ -1,0 +1,1 @@
+.message{position:fixed;top:0;left:50%;transform:translateX(-50%);transition:opacity .3s,transform .3s,top .4s}.message-fade-enter,.message-fade-leave-active{opacity:0;transform:translate(-50%,-100%)}
